@@ -27,7 +27,6 @@
 <style scoped>
 .background {
     background: url("../assets/images/background.png") no-repeat;
-    background-position: center -10em;
     background-size: cover;
     overflow: hidden;
 }
