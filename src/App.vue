@@ -19,6 +19,5 @@ import Home from './views/Home.vue'
   align-items: center;
   justify-content: center;
   font-family: Staatliches, Arial, Helvetica, sans-serif;
-  padding: 1em;
 }
 </style>
