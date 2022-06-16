@@ -4,8 +4,8 @@
 <template>
     <div class="w-full h-full relative background">
         <div class="vignette hidden lg:block"></div>
-        <img class="w-2/3 lg:w-1/4 m-auto pt-16 lg:pt-28 pb:10 lg:pb-20" src="../assets/images/Logo_White.png" alt="">
-        <div class="w-2/3 lg:w-1/2 m-auto text-center leading-6 text-2xl lg:text-5xl">
+        <img class="w-2/3 lg:w-1/4 m-auto pt-16 lg:pt-26 pb:10 lg:pb-20" src="../assets/images/Logo_White.png" alt="">
+        <div class="w-2/3 lg:w-1/2 m-auto text-center leading-6 text-2xl lg:text-5xl ">
             <p>We are a videogames development studio that loves videogames and now we want to contribute with our own.
             </p>
             <p class="pt-2 lg:pt-10">More news comming soon :)</p>
