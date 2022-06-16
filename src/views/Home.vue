@@ -26,10 +26,10 @@
 
 <style scoped>
 .background {
-    background: url("../assets/images/background.png") no-repeat center;
+    background: url("../assets/images/background.png") no-repeat;
     background-position: center -10em;
+    background-size: cover;
     overflow: hidden;
-    /* box-shadow: inset 0 0 200px black; */
 }
 
 .vignette {
@@ -43,14 +43,6 @@
     position: absolute;
     bottom: 4em;
 }
-
-/* .bigTree {
-    width: 35em;
-}
-
-.smallTree {
-    width: 18em;
-} */
 
 .smallTreeLeft {
     left: 4.5em;
@@ -74,6 +66,7 @@
     height: 4em;
     width: 100%;
     background: url('../assets/images/floor.png') no-repeat top;
+    background-size: cover;
 }
 
 .decoration1 {
